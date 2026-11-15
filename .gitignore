@@ -1,0 +1,4 @@
+*.log
+build/
+coverage/
+npm-debug.log*
